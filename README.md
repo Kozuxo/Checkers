@@ -8,23 +8,24 @@ You can promote your circle into king circle by keeping alive your circle to the
 Here are my video demo of my app:
 
 1. UI:
-https://user-images.githubusercontent.com/101935120/164969358-ed0be7c4-a25a-4a52-a36b-431860aed35d.mp4
+![jasonui](https://user-images.githubusercontent.com/101935120/164969926-f912ee2e-d226-4a2d-8c25-facc807c15af.gif)
 
 2. Eat:
-https://user-images.githubusercontent.com/101935120/164969370-892455ad-f66b-4432-982b-c8bc449a38d5.mp4
+![jasoneat](https://user-images.githubusercontent.com/101935120/164969933-ce542f33-f775-4a3e-966e-a071a8def84b.gif)
 
 3. Promote to King:
-https://user-images.githubusercontent.com/101935120/164969383-acb6ffaa-b400-4914-8868-9bbc4192f735.mp4
+![jasonking](https://user-images.githubusercontent.com/101935120/164969939-17247b79-b175-43cc-83e1-e8b359f82fbf.gif)
 
 4. Player 1 win:
-https://user-images.githubusercontent.com/101935120/164969405-9f200622-a158-41e1-b1de-0e070d9ff7d2.mp4
+![jasonp1](https://user-images.githubusercontent.com/101935120/164969943-a9c17107-d4a3-4c91-9849-df368db8de96.gif)
 
 5. Player 2 win:
-https://user-images.githubusercontent.com/101935120/164969410-87d21d1c-4409-44a2-861c-d9616753a8c1.mp4
+![jasonp2](https://user-images.githubusercontent.com/101935120/164969950-1370b5ef-ce29-44f2-8d34-323d7c2bc385.gif)
 
 6. Play With Computer:
-https://user-images.githubusercontent.com/101935120/164969423-b62fa2fa-48c0-466e-8606-66ca211ff0db.mp4
+![jasoncom](https://user-images.githubusercontent.com/101935120/164969958-6a4bcf59-5123-4036-9b90-7d8e2f93269e.gif)
 
 7. Computer Win:
-https://user-images.githubusercontent.com/101935120/164969431-55ce1f18-1153-40ca-ac37-1459e708e6ff.mp4
+![jasoncomwin](https://user-images.githubusercontent.com/101935120/164969960-8376a25e-f278-43c1-9458-f35120474b4b.gif)
+
 
